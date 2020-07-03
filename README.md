@@ -5,8 +5,8 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ### Features!
-  - encrypted Option Added
-  - Decrypt Google Drive Folder links
+  - Encryption Option Added
+  - Decrypt Google Drive Folder or File links
   - Copy Folder and Files From encrypted links or normal links to your Google Drive
   - Avoid [DMCA](https://www.dmca.com/)
 
