@@ -6,7 +6,7 @@
 
 ### Features!
 
-  - Encrypt your Google Drive Folder links
+  - Decrypt Google Drive Folder links
   - Copy Folder and Files From encrypted links or normal links to your Google Drive
   - Avoid [DMCA](https://www.dmca.com/)
 
