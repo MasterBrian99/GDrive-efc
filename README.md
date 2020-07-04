@@ -1,10 +1,20 @@
 # Google Drive - encrypted folder copy
+---
+![GitHub top language](https://img.shields.io/github/languages/top/MasterBrian99/GDrive-efc) ![GitHub issue/pull request detail](https://img.shields.io/github/issues/detail/author/MasterBrian99/GDrive-efc/1)   [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/MasterBrian99/GDrive-efc) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/MasterBrian99/GDrive-efc) [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges) [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://github.com/anadius/gd-efc) 
+![GitHub forks](https://img.shields.io/github/forks/MasterBrian99/GDrive-efc?style=social) ![GitHub stars](https://img.shields.io/github/stars/MasterBrian99/GDrive-efc?style=social)  ![GitHub issues](https://img.shields.io/github/issues/MasterBrian99/GDrive-efc) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/MasterBrian99/GDrive-efc) ![GitHub last commit](https://img.shields.io/github/last-commit/MasterBrian99/GDrive-efc)
 
-## Forked Form- [anadius/gd-efc](https://github.com/anadius/gd-efc) 
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://github.com/MasterBrian99/GDrive-efc) [![forthebadge](https://forthebadge.com/images/badges/built-with-grammas-recipe.svg)](https://github.com/MasterBrian99/GDrive-efc) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/MasterBrian99/GDrive-efc) [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://github.com/MasterBrian99/GDrive-efc) [![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)
+
+### Original Source- [@anadius](https://github.com/anadius)
 ### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+### Demo
+![Demo Photo](https://i.imgur.com/8DZVhjm.png)
+### Technologies Used
+[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com) [![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com) [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com) 
 
 ### Features!
+  
   - Encryption Option Added
   - Create Shared Drive Option Added
   - Decrypt Google Drive Folder or File links
@@ -13,11 +23,9 @@
 
 
 ### How to Use:
+  - Star this repository
   - Create Heroku [Account](https://signup.heroku.com/) (You can skip this step if you already have an account in heroku)
   - Click 'Deploy to Heroku' Button
-  - that's all
+  - That's all
 
->This is just a modified repo with Heroku Deploy Button & some other things
-
->All the credits goes to owner of this repository- [anadius/gd-efc](https://github.com/anadius/gd-efc)
 
