@@ -6,6 +6,7 @@
 
 ### Features!
   - Encryption Option Added
+  - Create Shared Drive Option Added
   - Decrypt Google Drive Folder or File links
   - Copy Folder and Files From encrypted links or normal links to your Google Drive
   - Avoid [DMCA](https://www.dmca.com/)
