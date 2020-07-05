@@ -14,8 +14,8 @@
 
 ### Features!
   
-  - Encryption Option Added
-  - Create Shared Drive Option Added
+  - Encrypt Google Drive Links
+  - Create Shared Drive Option 
   - Decrypt Google Drive Folder or File links
   - Copy Folder and Files From encrypted links or normal links to your Google Drive
   - Avoid [DMCA](https://www.dmca.com/)
@@ -23,7 +23,7 @@
 
 ### How to Use:
   - Star this repository
-  - Create Heroku [Account](https://signup.heroku.com/) (You can skip this step if you already have an account in heroku)
+  - Create [Heroku](https://signup.heroku.com/) Account (You can skip this step if you already have an account in heroku)
   - Click 'Deploy to Heroku' Button
   - That's all
 
