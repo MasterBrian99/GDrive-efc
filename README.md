@@ -10,7 +10,7 @@
 ### Demo
 ![Demo Photo](https://i.imgur.com/8DZVhjm.png)
 ### Technologies Used
-[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](https://github.com/MasterBrian99/GDrive-efc) [![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](https://github.com/MasterBrian99/GDrive-efc) [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](https://github.com/MasterBrian99/GDrive-efc) 
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](http://forthebadge.com) [![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](https://github.com/MasterBrian99/GDrive-efc) [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](https://github.com/MasterBrian99/GDrive-efc) 
 
 ### Features!
   
