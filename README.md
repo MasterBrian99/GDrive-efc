@@ -5,6 +5,15 @@
 ---
 
 ### Original Source- [@anadius](https://github.com/anadius)
+
+
+### How to Use:
+  - Star this repository
+  - Create [Heroku](https://signup.heroku.com/) Account (You can skip this step if you already have an account in heroku)
+  - Click 'Deploy to Heroku' Button
+  - That's all
+  
+  
 ### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 ### Demo
@@ -20,12 +29,6 @@
   - Copy Folder and Files From encrypted links or normal links to your Google Drive
   - Avoid [DMCA](https://www.dmca.com/)
 
-
-### How to Use:
-  - Star this repository
-  - Create [Heroku](https://signup.heroku.com/) Account (You can skip this step if you already have an account in heroku)
-  - Click 'Deploy to Heroku' Button
-  - That's all
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://github.com/MasterBrian99/GDrive-efc) [![forthebadge](https://forthebadge.com/images/badges/built-with-grammas-recipe.svg)](https://github.com/MasterBrian99/GDrive-efc) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/MasterBrian99/GDrive-efc) [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://github.com/MasterBrian99/GDrive-efc) [![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)
