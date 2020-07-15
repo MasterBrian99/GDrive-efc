@@ -29,7 +29,10 @@
   - Copy Folder and Files From encrypted links or normal links to your Google Drive
   - Avoid [DMCA](https://www.dmca.com/)
 
-
+### Contributing
+#### Pull requests are welcome.
+- For major changes, please visit main repository [gd-efc](https://github.com/anadius/gd-efc) and open an issue.
+- If you have interesting shared drive ideas or links,create an issue or make a pull requests.
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://github.com/MasterBrian99/GDrive-efc) [![forthebadge](https://forthebadge.com/images/badges/built-with-grammas-recipe.svg)](https://github.com/MasterBrian99/GDrive-efc) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/MasterBrian99/GDrive-efc) [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://github.com/MasterBrian99/GDrive-efc) [![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)
 
